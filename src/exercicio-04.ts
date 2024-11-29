@@ -8,6 +8,6 @@
 let base = 3;
 let resultado = 1;
 for (let i = 0; i <= 15; i++) {
-      console.log("O número " + base + " elevado à base " + i + " é = " + resultado) ;
+      console.log("O número " + base + " elevado à base " + i + " é = " + resultado);
       resultado *= base;
 }
