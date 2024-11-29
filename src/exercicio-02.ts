@@ -8,4 +8,4 @@ do {
     par += 2; // Incrementa de 2 em 2 para pegar os próximos números pares
 } while (par <= 500);
 
-console.log("A soma dos números pares de 1 até 500 é:", soma2);
+console.log("A soma dos números pares de 1 até 500 é :" + soma2);
